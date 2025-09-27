@@ -11,4 +11,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1000&pause=2000&color=9B9FF7&background=A753FF00&center=true&vCenter=true&repeat=false&width=260&height=25&lines=Stacks%2FExperience%2FLearning%3A+)](https://git.io/typing-svg)
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,react,rust,cs,c,ts&perline=4)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,react,rust,cs,c,ts&perline=3)](https://skillicons.dev)<br/>
