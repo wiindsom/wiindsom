@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hey🐲 Hi😼 Hello👋 I'm windsom!</h1> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&duration=2000&pause=3000&color=9B9FF7&vCenter=true&width=850&lines=C%3A%5CUsers%5CWindsom%3E+Hey%F0%9F%90%B2+Hi%F0%9F%98%BC+Hello%F0%9F%91%8B;C%3A%5CUsers%5CWindsom%3E+I'm+Windsom!;C%3A%5CUsers%5CWindsom%3E+My+favorite+language+is+LUAU!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&duration=2000&pause=3000&color=9B9FF7&vCenter=true&width=850&lines=C%3A%5CUsers%5CArc%3E+Hey%F0%9F%90%B2+Hi%F0%9F%98%BC+Hello%F0%9F%91%8B;C%3A%5CUsers%5CArc%3E+I'm+Arc!;C%3A%5CUsers%5CArc%3E+My+favorite+language+is+LUAU!)](https://git.io/typing-svg)
 
 ---
 
